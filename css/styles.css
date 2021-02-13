@@ -1,0 +1,27 @@
+/*************TAG SELECTORS********/
+h1{
+    color:red;
+    font-size: 200px;
+}
+
+img:hover{/*use pseudo class to change the image when pointer is hovered over*/
+    background-color: gold;
+}
+
+/*************CLASS SELECTORS********/
+.bacon{
+    background-color: green;
+}
+
+.avocado{
+    background-color: red   ;
+}
+
+.circular{
+    border-radius: 100%;
+}
+
+/*************ID SELECTORS********/
+#heading{
+    color:blue;
+}
